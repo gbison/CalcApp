@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Copy
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTextDetail">#FF6A00</color>
+    -->
+
+    <color name="colorPrimary">#22269E</color>
+    <color name="colorPrimaryDark">#CE5200</color>
+    <color name="colorAccent">#FF6A00</color>
+
+</resources>

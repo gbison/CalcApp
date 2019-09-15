@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="editText">Hello World!</string>
+    <string name="textID">This is a new Activity!</string>
+    <string name="textView">Hello World</string>
+    <string name="calcTitle">Droid Calculator</string>
+    <string name="calcButton">Calculate!</string>
+    <string name="textview_num1">First Number</string>
+    <string name="textview_num2">Second Number</string>
+    <string name="textview_output">Result</string>
+</resources>
