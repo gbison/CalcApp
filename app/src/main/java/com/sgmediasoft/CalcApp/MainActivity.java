@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity
             public void onClick(View v) {
                 Intent myIntent = new Intent(getBaseContext(),Main2Activity.class);
                 myIntent.putExtra("value1", "I passed a value!!");
+
                 startActivity(myIntent);
             }
         });
